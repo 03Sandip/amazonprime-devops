@@ -26,6 +26,9 @@
 - Set up **Prometheus** and **Grafana** for monitoring and visualization.
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
+###Install Docker Scout:
+docker login       `Give Dockerhub credentials here`
+curl -sSfL https://raw.githubusercontent.com/docker/scout-cli/main/install.sh | sh -s -- -b /usr/local/bin
 ---
 
 ## 🤝 **Connect with Me**
