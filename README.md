@@ -32,12 +32,9 @@
 
 Let's connect and discuss DevSecOps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-paul-053a21259/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-paul-053a21259/)
 
 
-Install Docker Scout:
-docker login       `Give Dockerhub credentials here`
-curl -sSfL https://raw.githubusercontent.com/docker/scout-cli/main/install.sh | sh -s -- -b /usr/local/bin
 
 
 
